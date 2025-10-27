@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# DevOpsAssignment12
+>>>>>>> 7bb4356f92ed434dd8d159a410a07063ddc9815a
 # DevOps Assignment - 1&2 ## Author - Roll No: ITB705 - Name: Atharv Avinash Gunjal Sayali ## Project Overview Multi-server Django application deployed on AWS with: - Terraform (Infrastructure) - Ansible (Configuration) - Docker Swarm (Orchestration) - Jenkins (CI/CD) ## Setup Status - [x] Development environment - [ ] Terraform infrastructure - [ ] Ansible configuration - [ ] Django application - [ ] Docker containers - [ ] CI/CD pipeline# A729DevOps_Assignment# DevOps_Assignment placeholder
 
 AWS DevOps Automation Project
@@ -47,4 +51,8 @@ aws-devops-project/
 
 Django app deployed successfully on AWS using fully automated DevOps pipeline.
 Infrastructure → Configuration → Deployment → CI/CD achieved end-to-end.
+<<<<<<< HEAD
 Verified live via manager node public IP.
+=======
+Verified live via manager node public IP.
+>>>>>>> 7bb4356f92ed434dd8d159a410a07063ddc9815a
